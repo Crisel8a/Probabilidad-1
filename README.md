@@ -13,15 +13,10 @@
     <a href="#">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
-    <a href="#">
-        <img src="![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
-    </a>
-    <a href="#">
+  <a href="#">
         <img src="![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)" />
     </a>
-  <a href="#">
-        <img src="![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)" />
-    </a>
+    
 </p>
 
 
