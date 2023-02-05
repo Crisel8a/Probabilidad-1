@@ -19,6 +19,9 @@
   <a href="#">
         <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
     </a>
+  <a href="#">
+        <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+    </a>
     
 </p>
 
