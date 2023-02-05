@@ -66,3 +66,7 @@ CVAD es por Conteo, Variables Aleatorias y Distribuciones. En este segundo noteb
   - Distribución Geométrica
   - Distribución Poisson
   - Distribución Exponencial
+
+<p align="center">
+  <strong>¿Cuàl es la probabilidad de que ...?</strong><br>
+</p>
