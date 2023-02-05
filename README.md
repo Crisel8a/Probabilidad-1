@@ -10,23 +10,20 @@
 </p>
 
 <p align="center">
-    
     <a href="#">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Welcome" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
-    
     <a href="#">
         <img src="![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
     </a>
-    
     <a href="#">
-        <img src="![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)" />
+        <img src="![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)" alt="Welcome" />
     </a>
-    
-     <a href="#">
-        <img src="![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)" />
+  <a href="#">
+        <img src="![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)" alt="Welcome" />
     </a>
 </p>
+
 
 **Varias cosas que aprendí en este curso las pude programar con ayuda de R y Python. Como bibliografía usamos el libro de Luis Rincón "Introducción a la Probabilidad".  El temario fue algo largo para acomodar todo un un solo notebook así que lo dividí en dos.**
 
