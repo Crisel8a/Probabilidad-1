@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    Rrobabilidad 1
+    Probabilidad 1
   </a>
 </h1>
 
