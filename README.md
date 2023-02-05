@@ -69,5 +69,5 @@ CVAD es por Conteo, Variables Aleatorias y Distribuciones. En este segundo noteb
   - Distribución Normal
 
 <p align="center">
-  <strong>¿Cuàl es la probabilidad de que ...?</strong><br>
+  <strong>¿Cuál es la probabilidad de que ...?</strong><br>
 </p>
