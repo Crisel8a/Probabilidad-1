@@ -54,7 +54,7 @@ Repasamos diferentes enfoques de la probabilidad y los aplicamos a situaciones c
 - Tareas
 
 
-### ❎ Proba_CVAD
+### ✅ Proba_CVAD
 
 CVAD es por Conteo, Variables Aleatorias y Distribuciones. En este segundo notebook pasamos ahora con herramientas que nos ayudarán a sacar otro tipo de probabilidades con otros enfoques. Comenzamos con herramientas de conteo y combinatoria, conocemos las variables aleatorias continuas y discretas así como sus funciones de masa, densidad y disfribución. Finalmente, conocemos distribuciones con nombre propio. 
 
