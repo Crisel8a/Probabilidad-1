@@ -31,7 +31,9 @@
   <a href="#">
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
     </a>
-    
+    <a href="#">
+        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+    </a>
 </p>
 
 
