@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>ASobre el temario de un un primer curso de probabilidad.</strong><br>
+  <strong>Sobre el temario de un un primer curso de probabilidad.</strong><br>
   @IPN-ESFM-Crisel Escalante 2022-2023
 </p>
 
