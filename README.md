@@ -37,7 +37,7 @@
 </p>
 
 
-**Varias cosas que aprendí en este curso las pude programar con ayuda de R y Python. Como bibliografía usamos el libro de Luis Rincón "Introducción a la Probabilidad".  El temario fue algo largo para acomodar todo un un solo notebook así que lo dividí en dos.**
+**Varias cosas que aprendí en este curso las pude programar con ayuda de R y Python. Como bibliografía usamos el libro de Luis Rincón "Introducción a la Probabilidad".  El temario fue algo largo para acomodar todo un un solo notebook así que lo dividí en dos ramas importantes. También agrego un notebook de los mismos temas en R y uno sobre un curso en DataCamp sobre fundamentos de probabilidad con python.**
 
 ---
 ### ✅ Proba_Clásica
