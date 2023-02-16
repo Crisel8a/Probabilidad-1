@@ -81,18 +81,15 @@ Rescato los tres capítulos sobre un curso de fundmentos de probabilidad en Data
     - Distribuciones
     
   - Cap 2. 
-    - Lanzando una moneda
-    - Generando una semilla aleatoria
-    - Funciones de masa y distribución
-    - Esperanza, varianza y media aritmética
-    - Distribuciones
-    
+    - Independencia
+    - Probabilidad Condicionada
+    - Teorema de Proabilidad Total
+    - Teorema de Bayes
+
   - Cap 3. 
-    - Lanzando una moneda
-    - Generando una semilla aleatoria
-    - Funciones de masa y distribución
-    - Esperanza, varianza y media aritmética
-    - Distribuciones
+    - Distribución Normal
+    - Distribución Poisson
+    - Distribución Geométrica
 
 
 
