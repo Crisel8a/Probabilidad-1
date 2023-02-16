@@ -67,6 +67,35 @@ CVAD es por Conteo, Variables Aleatorias y Distribuciones. En este segundo noteb
   - Distribución Poisson
   - Distribución Exponencial
   - Distribución Normal
+  
+
+### ✅ probafundamentosdc
+
+Rescato los tres capítulos sobre un curso de fundmentos de probabilidad en Data Camp. 
+
+  - Cap 1. 
+    - Lanzando una moneda
+    - Generando una semilla aleatoria
+    - Funciones de masa y distribución
+    - Esperanza, varianza y media aritmética
+    - Distribuciones
+    
+  - Cap 2. 
+    - Lanzando una moneda
+    - Generando una semilla aleatoria
+    - Funciones de masa y distribución
+    - Esperanza, varianza y media aritmética
+    - Distribuciones
+    
+  - Cap 3. 
+    - Lanzando una moneda
+    - Generando una semilla aleatoria
+    - Funciones de masa y distribución
+    - Esperanza, varianza y media aritmética
+    - Distribuciones
+
+
+
 
 <p align="center">
   <strong>¿Cuál es la probabilidad de que ...? -Dedicado a Julio Hernández</strong><br>
